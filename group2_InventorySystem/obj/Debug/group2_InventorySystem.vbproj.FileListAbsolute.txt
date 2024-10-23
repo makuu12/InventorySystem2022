@@ -1,0 +1,135 @@
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Buffers.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Memory.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Numerics.Vectors.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Text.Json.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.ValueTuple.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Buffers.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Memory.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Numerics.Vectors.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Text.Json.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.ValueTuple.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.vbproj.AssemblyReference.cache
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.vbproj.SuggestedBindingRedirects.cache
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.HomeForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.InventoryForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.LoginPage.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.mainForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.Resources.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.orderForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.SalesForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.SettingsForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.vbproj.GenerateResource.cache
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.vbproj.CoreCompileInputs.cache
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.vbproj.CopyComplete
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.LogsForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.UpdateForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.MaterialsUsedForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.AddExpensesForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.LossDamageForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Oracle.DataAccess.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\x86\SqlServerSpatial160.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\x64\SqlServerSpatial160.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.IncomeReportForm.resources
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.exe.config
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.exe.manifest
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.application
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.exe
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.pdb
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.exe.manifest
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.application
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.exe
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.xml
+D:\School\SE101\group2_InventorySystem\group2_InventorySystem\obj\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.pdb
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\x86\SqlServerSpatial160.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\x64\SqlServerSpatial160.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.exe.config
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.exe.manifest
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.application
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.exe
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.pdb
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Oracle.DataAccess.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Buffers.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Memory.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Numerics.Vectors.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Text.Json.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.ValueTuple.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Buffers.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Memory.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Numerics.Vectors.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Text.Json.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\System.ValueTuple.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.vbproj.AssemblyReference.cache
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.AddExpensesForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.HomeForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.InventoryForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.LoginPage.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.LogsForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.LossDamageForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.mainForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.MaterialsUsedForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.Resources.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.orderForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.SalesForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.IncomeReportForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.SettingsForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.UpdateForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.vbproj.GenerateResource.cache
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.vbproj.CoreCompileInputs.cache
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.exe.manifest
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.application
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.vbproj.CopyComplete
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.exe
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.xml
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\Kape+Kwento Stocks Monitoring and Sales Integration System.pdb
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.RegistrationForm.resources
+D:\School\SIA102\group2_InventorySystem\group2_InventorySystem\obj\Debug\group2_InventorySystem.ManageAccountForm.resources
